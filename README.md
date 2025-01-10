@@ -1,11 +1,4 @@
-Here are the README file templates for each of the projects you've mentioned. These templates are designed to provide an overview of the project, its objectives, and the tech stack, along with instructions for setting up and running the projects.
 
-
----
-
-1. Automated Lighting Control Using Human Emotions
-
-README Template
 
 # Automated Lighting Control Using Human Emotions
 
